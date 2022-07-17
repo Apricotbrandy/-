@@ -1,0 +1,28 @@
+*{
+    color: pink;
+    background-color: gray;
+    /* text-shadow: 4px 4px 2px black; */
+}
+.b{
+    font-family: 'Times New Roman', Times, serif;
+}
+.c{
+    /* font-family: 'Jua', sans-serif; */
+    font-family: 'Jua', sans-serif;
+}
+h1{
+    /* font-size: 3em; */
+    font-size: 400%;
+    font-style: italic;
+}
+p{
+    /* font-weight: bold; */
+    font-weight: 600; /* 수치로는 최소 200에서 800까지 */
+    /* color: blue; */
+    /* color: rgb(255, 0, 255); */
+    /* color: rgba(255, 0, 255, 0.1); */
+    /* color: rgba(255, 0, 255, 1);  */
+    /* rgba의 4번째 수치는 투명도, 0 ~ 1까지 */
+    /* color: #ffff00; 16진수 표현 */
+    /* color: #ffff0011; 투명도까지  */
+}

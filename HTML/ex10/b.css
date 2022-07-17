@@ -1,0 +1,49 @@
+#top{
+    background-color: red;
+    width: 1000px;
+    height: 150px;
+}
+#left{
+    background-color: orange;
+    height: 700px;
+    width: 300px;
+    float: left;
+}
+#right{
+    background-color: yellow;
+    height: 700px;
+    width: 700px;
+    float: left;
+}
+h1{
+    text-align: center;
+    color: chocolate;
+}
+h2{
+    color: saddlebrown;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+#li{
+    color: white;
+    text-decoration: none;
+}
+#login, #signup{
+    text-decoration: none;
+    color: white;
+    background-color: darkolivegreen;
+    padding: 15px 25px;
+    display: inline-block;
+}
+fieldset{
+    background-color: chocolate;
+    border-width: 10px solid coral;
+    border-radius: 20px;
+    margin: 15px 15px;
+    text-align: center;
+}

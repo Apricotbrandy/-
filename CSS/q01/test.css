@@ -1,0 +1,36 @@
+*{
+    color: pink;
+    background-color: gray;
+}
+li{
+    /* list-style-type: none; */
+    /* list-style-type: disc; */
+    /* list-style-type: circle; */
+    /* list-style-type: square; */
+    /* list-style-type: decimal; */
+    /* list-style-type: lower-roman; */
+    /* list-style-type: upper-roman; */
+    /* list-style-type: lower-alpha; */
+    /* list-style-type: upper-alpha; */
+    /* list-style-type: lower-latin; */
+    /* list-style-type: upper-latin; */
+    list-style-image: url("cat_emo.jpg");
+}
+h1{
+    text-align: center
+}
+.ca{
+    color: green;
+}
+#la{
+    color: yellow;
+}
+p, b{
+    color: blue;
+}
+table{
+    border: 1px solid black;
+}
+tr, th, td{
+    border: 1px solid purple;
+}

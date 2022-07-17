@@ -1,0 +1,39 @@
+#box{
+    display: flex;
+    flex-direction: row;
+    /* flex-direction: column; */
+    justify-content: center;
+    background-color: pink;
+    width: 1000px;
+    height: 100px;
+}
+#a{
+    background-color: red;
+    flex-basis: 10%;
+    width: 100px;
+    height: 100px;
+}
+#b{
+    background-color: orange;
+    flex-basis: 10%;
+    width: 100px;
+    height: 100px;
+}
+#c{
+    background-color: yellow;
+    flex-basis: 10%;
+    width: 100px;
+    height: 100px;
+}
+#d{
+    background-color: green;
+    flex-basis: 10%;
+    width: 100px;
+    height: 100px;
+}
+#e{
+    background-color: blue;
+    flex-basis: 10%;
+    width: 100px;
+    height: 100px;
+}

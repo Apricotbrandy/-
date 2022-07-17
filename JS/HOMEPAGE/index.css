@@ -1,0 +1,12 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    border-radius: 45px;
+    box-shadow: 5px 5px 5px;
+}
